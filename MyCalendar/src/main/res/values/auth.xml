@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="google_scopes">
+        <!-- Google+ -->
+        <item>https://www.googleapis.com/auth/plus.login</item>
+        <item>https://www.googleapis.com/auth/plus.me</item>
+        <item>https://www.googleapis.com/auth/userinfo.email</item>
+        <item>https://www.googleapis.com/auth/userinfo.profile</item>
+
+        <!-- Youtube -->
+        <item>https://www.googleapis.com/auth/youtube</item>
+        <item>https://www.googleapis.com/auth/youtube.readonly</item>
+        <item>https://www.googleapis.com/auth/youtube.upload</item>
+
+        <!-- URL Shortener -->
+        <item>https://www.googleapis.com/auth/urlshortener</item>
+
+        <!-- Tasks -->
+        <item>https://www.googleapis.com/auth/tasks</item>
+        <item>https://www.googleapis.com/auth/tasks.readonly</item>
+
+        <!-- Picasa -->
+        <item>https://picasaweb.google.com/data/</item>
+
+        <!-- Google Play Games -->
+        <item>https://www.googleapis.com/auth/games</item>
+
+        <!-- Google Maps -->
+        <item>https://www.googleapis.com/auth/coordinate</item>
+
+        <!-- GMail -->
+        <item>https://mail.google.com/mail/feed/atom</item>
+
+        <!-- Frebase -->
+        <item>https://www.googleapis.com/auth/freebase</item>
+
+        <!-- Contacts -->
+        <item>https://www.google.com/m8/feeds/</item>
+
+        <!-- Calendar -->
+        <item>https://www.googleapis.com/auth/calendar</item>
+        <item>https://www.googleapis.com/auth/calendar.readonly</item>
+
+        <!-- Books -->
+        <item>https://www.googleapis.com/auth/books</item>
+
+        <!-- GCM Chrome -->
+        <item>https://www.googleapis.com/auth/gcm_for_chrome</item>
+
+        <!-- GCM Android -->
+        <item>https://android.apis.google.com/c2dm</item>
+
+        <!-- Finance -->
+        <item>https://finance.google.com/finance/feeds/</item>
+
+        <!-- Chrome Webstore -->
+        <item>https://www.googleapis.com/auth/chromewebstore.readonly</item>
+
+        <!-- Google Drive -->
+        <item>https://www.googleapis.com/auth/drive.file</item>
+        <item>https://www.googleapis.com/auth/drive</item>
+        <item>https://www.googleapis.com/auth/drive.apps.readonly</item>
+        <item>https://www.googleapis.com/auth/drive.readonly</item>
+        <item>https://www.googleapis.com/auth/drive.readonly.metadata</item>
+        <item>https://www.googleapis.com/auth/drive.install</item>
+        <item>https://www.googleapis.com/auth/drive.appdata</item>
+        <item>https://www.googleapis.com/auth/drive.scripts</item>
+    </string-array>
+
+    <string-array name="facebook_scopes">
+        <item>email</item>
+        <item>read_friendlists</item>
+        <item>read_insights</item>
+        <item>read_mailbox</item>
+        <item>read_requests</item>
+        <item>read_stream</item>
+        <item>xmpp_login</item>
+        <item>user_online_presence</item>
+        <item>friends_online_presence</item>
+        <item>user_about_me</item>
+        <item>user_activities</item>
+        <item>user_birthday</item>
+        <item>user_checkins</item>
+        <item>user_education_history</item>
+        <item>user_events</item>
+        <item>user_groups</item>
+        <item>user_hometown</item>
+        <item>user_interests</item>
+        <item>user_likes</item>
+        <item>user_location</item>
+        <item>user_notes</item>
+        <item>user_photos</item>
+        <item>user_questions</item>
+        <item>user_relationships</item>
+        <item>user_relationship_details</item>
+        <item>user_religion_politics</item>
+        <item>user_status</item>
+        <item>user_subscriptions</item>
+        <item>user_videos</item>
+        <item>user_website</item>
+        <item>user_work_history</item>
+        <item>friends_about_me</item>
+        <item>friends_activities</item>
+        <item>friends_birthday</item>
+        <item>friends_checkins</item>
+        <item>friends_education_history</item>
+        <item>friends_events</item>
+        <item>friends_groups</item>
+        <item>friends_hometown</item>
+        <item>friends_interests</item>
+        <item>friends_likes</item>
+        <item>friends_location</item>
+        <item>friends_notes</item>
+        <item>friends_photos</item>
+        <item>friends_questions</item>
+        <item>friends_relationships</item>
+        <item>friends_relationship_details</item>
+        <item>friends_religion_politics</item>
+        <item>friends_status</item>
+        <item>friends_subscriptions</item>
+        <item>friends_videos</item>
+        <item>friends_website</item>
+        <item>friends_work_history</item>
+    </string-array>
+</resources>

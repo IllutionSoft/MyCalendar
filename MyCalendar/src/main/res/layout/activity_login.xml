@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_in_with_google"
+            android:id="@+id/sign_in_with_google"
+            android:layout_alignParentEnd="false"
+            android:layout_alignWithParentIfMissing="false"
+            android:textColor="@color/sign_in_google_white"
+            android:clickable="true"
+            android:background="@color/sign_in_google_blue"
+            android:textColorHighlight="@color/sign_in_google_highlight"
+            android:shadowColor="@color/sign_in_google_shadow"
+            android:alpha="90"
+            android:textStyle="bold"
+            android:singleLine="false"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentStart="false"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"/>
+</RelativeLayout>
